@@ -61,12 +61,20 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexbit-ml&layout=compact&theme=transparent&hide_border=true&title_color=00B4D8&text_color=FFFFFF&bg_color=00000000" />
 </p>
 
+
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nexbit-ml&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" />
+  <!-- Profile Details Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nexbit-ml&theme=slateorange" />
+</p>
+
+<p align="center">
+  <!-- Commits & Productive Time (Light Green / Orange) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nexbit-ml&theme=slateorange&utcOffset=5.5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nexbit-ml&theme=slateorange" />
 </p>
 
 ---
